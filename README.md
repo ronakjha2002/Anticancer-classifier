@@ -40,8 +40,8 @@ I ran each model 10 times with different random seeds and saved the best-perform
 | Model | Test Accuracy | Test AUC | F1-Score | MCC |
 |-------|--------------|----------|----------|-----|
 | Random Forest | 95.85% | 0.9884 | 0.9588 | 0.9172 |
-| **SVM** | **96.63%** | **0.9899** | — | — |
-| KNN | 93.94% | — | — | — |
+| **SVM** | **96.63%** | **0.9899** | 0.9664 | 0.932 |
+| KNN | 93.94% | 0.9767 | 0.954 |0.907|
 
 SVM came out on top, so that's the one I'd use for any actual prediction task.
 

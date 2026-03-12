@@ -1,6 +1,6 @@
 # Anticancer Phytochemical Classifier
 
-This was one of my main projects during my M.Sc. Bioinformatics program. The idea was pretty straightforward — can we use machine learning to predict whether a plant-derived compound (phytochemical) has anticancer activity or not? Turns out, yes, and it works really well.
+This was one of my main projects during my Internship at ACTREC - Tata Memorial Centre. The idea was pretty straightforward — can we use machine learning to predict whether a plant-derived compound (phytochemical) has anticancer activity or not? Turns out, yes, and it works really well.
 
 ---
 
